@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c90d10d9db523300ee9b2a36ca96194a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>simple</sys_name>
         <sys_overrides/>
         <sys_package display_value="ServiceNow Store Link" source="x_348113_serviceno">c2035019db123300ee9b2a36ca961972</sys_package>
@@ -48,8 +48,8 @@
         <sys_scope display_value="ServiceNow Store Link">c2035019db123300ee9b2a36ca961972</sys_scope>
         <sys_update_name>sys_script_c90d10d9db523300ee9b2a36ca96194a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-26 10:33:31</sys_updated_on>
-        <template>caller_id=6816f79cc0a8016401c5a33be04be441^category=software^subcategory=antivirus^contact_type=phone^EQ</template>
+        <sys_updated_on>2019-06-26 10:35:14</sys_updated_on>
+        <template>caller_id=6816f79cc0a8016401c5a33be04be441^category=software^subcategory=antivirus^contact_type=phone^impact=2^EQ</template>
         <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=c90d10d9db523300ee9b2a36ca96194a"/>
