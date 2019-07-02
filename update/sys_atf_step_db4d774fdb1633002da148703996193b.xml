@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'Incident' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-02 13:17:23</sys_created_on>
+        <sys_id>db4d774fdb1633002da148703996193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="ServiceNow Store Link" source="x_348113_serviceno">c2035019db123300ee9b2a36ca961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Store Link">c2035019db123300ee9b2a36ca961972</sys_scope>
+        <sys_update_name>sys_atf_step_db4d774fdb1633002da148703996193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-02 13:17:23</sys_updated_on>
+        <table>incident</table>
+        <test display_value="test Test">323dbb8fdb1633002da148703996198c</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=db4d774fdb1633002da148703996193b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>db4d774fdb1633002da148703996193b</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-02 13:17:23</sys_created_on>
+        <sys_id>546d3f8fdb1633002da1487039961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-02 13:17:23</sys_updated_on>
+        <value/>
+        <variable display_value="">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>db4d774fdb1633002da148703996193b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-02 13:17:23</sys_created_on>
+        <sys_id>586d3f8fdb1633002da1487039961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-02 13:17:23</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+</record_update>
